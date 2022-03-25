@@ -1,4 +1,4 @@
-#50 Days of C
+# 50 Days of C
 
 Daily Log
 
